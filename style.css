@@ -1,0 +1,65 @@
+body{
+    height: 100vh;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    display: flex;
+    align-items: center;
+
+    background-color: #1a1a1a;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+.container{
+    width: 450px;
+    padding: 50px;
+    margin: auto;
+
+    background-color: #f9f9f9;
+}
+
+.title{
+    font-size: 50px;
+    color: #1f1f1f;
+}
+
+.timer{
+    margin-bottom: 30px;
+
+    text-align: center;
+    font-size: 41px;
+
+    color: #5a970a;
+}
+
+.cta{
+    padding: 10px;
+
+    display: flex;
+    gap: 30px;
+}
+.cta a{
+    padding: 8px 16px;
+    color: #1a1a1a;
+}
+
+.start{
+    background-color: #5a970a;
+}
+.pause{
+    background-color: #97130a;
+}
+.reset{
+    background-color: #1a1a1a;
+    color: #f9f9f9 !important;
+}
+
+.paused{
+    color: darkred;
+}
+.reseted{
+    color: #1f1f1f
+}
