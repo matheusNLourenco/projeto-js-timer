@@ -13,7 +13,7 @@
 
 Projeto Timer. Feito com js vanilla.
 
-<h2>🔨 Ferramentas /h2>
+<h2>🔨 Ferramentas </h2>
 
 - HTML
 - CSS
