@@ -7,13 +7,13 @@
 </h1>
 
 <h2 align="center">
-    <a href="https://matheusnlourenco.github.io/project-timer-js/">See the Project</a>
+    <a href="https://matheusnlourenco.github.io/projeto-js-timer/">Ver projeto</a>
 </h2>
-<h2>🚨 about</h2>
+<h2>🚨 Sobre </h2>
 
-Timer starting from 0 seconds to 23 hours, with start, pause and reset function.
+Projeto Timer. Feito com js vanilla.
 
-<h2>🔨 Tools</h2>
+<h2>🔨 Ferramentas /h2>
 
 - HTML
 - CSS
